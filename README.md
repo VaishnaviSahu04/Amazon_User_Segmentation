@@ -121,19 +121,19 @@ Understand user category instantly
 Amazon_Customer_Segmentation/
 │
 
+├── Amazon.ipynb
+
+├── README.md
+
 ├── app.py
+
+├── features.pkl
 
 ├── kmeans_model.pkl
 
 ├── scaler.pkl
 
-├── features.pkl
-
 ├── requirements.txt
-
-├── Amazon.ipynb
-
-├── README.md
 
 └── data/
         

@@ -109,13 +109,13 @@ Strategy: Loyalty programs, exclusive offers, premium recommendations
 
 The Streamlit app allows users to:
 
-Enter behavioral details
+### How to Use the Application
+1. Enter customer behavioral details.
+2. Click on "Predict Customer Segment".
+3. The application displays the predicted user segment with interpretation.
+   
 
-Predict customer segment in real time
-
-Understand user category instantly
-
-📌 Live App: (Add your Streamlit URL here after deployment)
+📌 Live App: (https://amazonusersegmentation-emd8ianrhfxzq9yil6takf.streamlit.app/)
 
 🗂 Project Structure
 Amazon_Customer_Segmentation/

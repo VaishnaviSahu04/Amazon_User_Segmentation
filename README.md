@@ -125,6 +125,8 @@ Amazon_Customer_Segmentation/
 
 ├── README.md
 
+├── amazon.csv
+
 ├── app.py
 
 ├── features.pkl
@@ -135,9 +137,6 @@ Amazon_Customer_Segmentation/
 
 ├── requirements.txt
 
-└── data/
-        
-    └── amazon.csv
 
 🛠 Technologies Used
 

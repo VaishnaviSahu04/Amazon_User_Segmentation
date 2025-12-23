@@ -133,9 +133,9 @@ Amazon_Customer_Segmentation/
 
 ├── kmeans_model.pkl
 
-├── scaler.pkl
-
 ├── requirements.txt
+
+├── scaler.pkl
 
 
 🛠 Technologies Used
